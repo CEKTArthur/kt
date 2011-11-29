@@ -7,7 +7,14 @@ public class Main {
 	 */
 	private static final Logger LOGGER = LoggerFactory.getLogger(Main.class);
 	public static void main(String[] args) {
-	   Set<DomainObject> objectSet = new HashSet<DomainObject>(); objectSet.add(new DomainObject("Helga")); objectSet.add(new DomainObject("Walter")); objectSet.add(new DomainObject("Hans")); objectSet.add(new DomainObject("Paul")); objectSet.add(new DomainObject("Claudia")); for (DomainObject domainObject : objectSet) { LOGGER.debug(domainObject.id); }
+	   Set<DomainObject> objectSet = new HashSet<DomainObject>(); 
+objectSet.add(new DomainObject("Helga","Frau"));
+ objectSet.add(new DomainObject("Walter","Frau"));
+ objectSet.add(new DomainObject("Hans","Frau")); 
+objectSet.add(new DomainObject("Paul","Frau"));
+ objectSet.add(new DomainObject("Claudia","Frau"));
+ for (DomainObject domainObject : objectSet) { 
+LOGGER.debug(domainObject.id); }
 	}
 
 }
