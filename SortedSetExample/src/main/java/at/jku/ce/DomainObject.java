@@ -1,10 +1,12 @@
 package at.jku.ce;
 
 public class DomainObject {
-private String name;
 public String id;
-public DomainObject(String id) { super(); this.id = id;
-}
+private String name;
+
+
+/** * Default constructor */	
+
 	public DomainObject() {
 		super();
 	}
