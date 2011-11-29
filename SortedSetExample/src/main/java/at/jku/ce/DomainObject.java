@@ -11,6 +11,11 @@ private String name;
 	public DomainObject() {
 		super();
 	}
+	public DomainObject(String name, String comment){
+		super(); this.name = name;
+	}
 	public String getId() { return id; }
-public String getComment() { return comment;}public void setComment(String comment) { this.comment = comment;}
+	
+public String getComment() { return comment;}
+	public void setComment(String comment) { this.comment = comment;}
 }
