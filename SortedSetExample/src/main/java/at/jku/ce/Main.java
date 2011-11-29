@@ -14,7 +14,7 @@ objectSet.add(new DomainObject("Helga","Frau"));
 objectSet.add(new DomainObject("Paul","Frau"));
  objectSet.add(new DomainObject("Claudia","Frau"));
  for (DomainObject domainObject : objectSet) { 
-LOGGER.debug(domainObject.id); }
+LOGGER.debug(domainObject.getUuid()); }
 	}
 
 }
