@@ -1,7 +1,8 @@
 package at.jku.ce;
 
 public class DomainObject {
-public String id;
+
+public String uuid;
 private String name;
 
 
