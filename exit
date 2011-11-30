@@ -1,0 +1,71 @@
+[33mcommit a9bef83c19f984a64aca678965f9d14e6e5c4d50[m
+Author: Clemens <irina.eisner@atn.ac.at>
+Date:   Wed Nov 30 14:32:41 2011 +0100
+
+    <Tag10>Clemens: Aenderung Klassendefinition
+
+[33mcommit 2230ee10b93e881d80e79ced06fcbc52a53ea5e6[m
+Author: Barbara <Irtschi@hotmail.com>
+Date:   Wed Nov 30 14:25:24 2011 +0100
+
+    <Tag 7> Barbara: hashCode
+
+[33mcommit 78fc1a558fc81e062357acc1bc303f36e3b41d59[m
+Author: Barbara <Irtschi@hotmail.com>
+Date:   Wed Nov 30 14:23:54 2011 +0100
+
+    <Tag 7> Barbara: equals
+
+[33mcommit 1b147bfe268bebed73b78acac4c456efae61c3a3[m
+Author: Barbara <Irtschi@hotmail.com>
+Date:   Wed Nov 30 14:22:34 2011 +0100
+
+    <Tag 7> BarbaraUeberschreiben toString
+
+[33mcommit b2b936be1e3233677d87200b549d3e95d4b34693[m
+Merge: 45b827d 36ff27d
+Author: Arthur <20042005@atn.nu>
+Date:   Wed Nov 30 14:13:45 2011 +0100
+
+    Merge branch 'release1.0' of github.com:CEKTArthur/kt
+
+[33mcommit 45b827df7e36d9b3c87c01efe8fa7dfeb8c7bba5[m
+Merge: d06e954 31ecd48
+Author: Arthur <20042005@atn.nu>
+Date:   Wed Nov 30 14:12:06 2011 +0100
+
+    <Tag 6> Arthur: get/setter methoden final
+
+[33mcommit d06e9542cdfa814689f093f12ce29b0310cd3e40[m
+Author: Arthur <20042005@atn.nu>
+Date:   Wed Nov 30 14:07:17 2011 +0100
+
+    <Tag 6> Arthur: get/setter methoden final
+
+[33mcommit 31ecd48d5d6e9902b7fb5506ac487f782cd595a1[m
+Merge: 3d01cb3 d32f61e
+Author: Barbara <Irtschi@hotmail.com>
+Date:   Wed Nov 30 13:58:24 2011 +0100
+
+    <Tag 6> Barbara: Konfliktbereinigung
+
+[33mcommit d32f61e1d453e69de7aa1d403e40bdaba69bf9ae[m
+Author: unknown <Admin@.(none)>
+Date:   Wed Nov 30 13:45:45 2011 +0100
+
+    <Tag 5> Arthur: get/setter methoden
+
+[33mcommit 36ff27d9378eb7151855db89e4914ae97242ce2e[m
+Author: Clemens <irina.eisner@atn.ac.at>
+Date:   Wed Nov 30 13:41:37 2011 +0100
+
+    <Tag5>Clemens: Argument hinzugefuegt
+
+[33mcommit 3d01cb32cab369b6ab8b227cd1d7bd187c705577[m
+Author: Barbara <Irtschi@hotmail.com>
+Date:   Wed Nov 30 11:35:53 2011 +0100
+
+    <Tag 6> Barbara toString
+
+[33mcommit dc58f112849da1103a66c06af99cba348f13062e[m
+Aut
