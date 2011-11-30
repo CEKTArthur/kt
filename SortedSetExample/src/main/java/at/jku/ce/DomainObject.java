@@ -8,7 +8,7 @@ private String name;
 
 /** * Default constructor */	
 
-	public DomainObject() {
+	protected DomainObject() {
 		super();
 	}
 	public DomainObject(String name, String comment){
