@@ -7,13 +7,13 @@ public class Main {
 	 */
 	private static final Logger LOGGER = LoggerFactory.getLogger(Main.class);
 	public static void main(String[] args) {
- 	Set<DomainObject> objectSet = new TreeSet<DomainObject>(new DomainObjectComparator()); 
+	Set<DomainObject> objectSet = new TreeSet<DomainObject>(new DomainObjectComparator()); 
 objectSet.add(new DomainObject("Helga","Frau"));
  objectSet.add(new DomainObject("Walter","Mann"));
  objectSet.add(new DomainObject("Hans","Mann")); 
 objectSet.add(new DomainObject("Paul","Mann"));
  objectSet.add(new DomainObject("Claudia","Frau"));
- for (DomainObject domainObject : objectSet) { 
+for (DomainObject domainObject : objectSet) { 
 LOGGER.debug(domainObject.toString()); }
 	}
 
